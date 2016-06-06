@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/person.dir/Class004/person.c.o  -o ../../bin/person -rdynamic 

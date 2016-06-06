@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/output_test.dir/Class002/output_test.c.o  -o ../../bin/output_test -rdynamic 

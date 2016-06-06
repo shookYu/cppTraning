@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shook/work/training/CPP/cppTraning/src/examples/Class004/Person.cc
+vector
+-
+map
+-
+Person.h
+/home/shook/work/training/CPP/cppTraning/src/examples/Class004/Person.h
+
+/home/shook/work/training/CPP/cppTraning/src/examples/Class004/Person.h
+iostream
+-
+iomanip
+-
+string
+-
+

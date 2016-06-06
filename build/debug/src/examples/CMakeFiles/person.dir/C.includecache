@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shook/work/training/CPP/cppTraning/src/examples/Class004/person.c
+stdlib.h
+-
+stdio.h
+-
+person.h
+/home/shook/work/training/CPP/cppTraning/src/examples/Class004/person.h
+
+/home/shook/work/training/CPP/cppTraning/src/examples/Class004/person.h
+

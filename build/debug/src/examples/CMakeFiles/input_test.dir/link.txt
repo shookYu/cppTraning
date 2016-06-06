@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/input_test.dir/Class003/input_test.c.o  -o ../../bin/input_test -rdynamic 

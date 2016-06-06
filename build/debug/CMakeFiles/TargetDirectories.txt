@@ -1,0 +1,12 @@
+/home/shook/work/training/CPP/cppTraning/build/debug/CMakeFiles/edit_cache.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/CMakeFiles/rebuild_cache.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/rebuild_cache.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/person.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/edit_cache.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/hello_world.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/HelloWorld.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/input_test.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/output_test.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/Person.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/InputTest.dir
+/home/shook/work/training/CPP/cppTraning/build/debug/src/examples/CMakeFiles/OutputTest.dir
